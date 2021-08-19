@@ -1,5 +1,5 @@
 {
-    "name": "Flashing Heart",
+    "name": "micro-bit-pizarra",
     "description": "",
     "dependencies": {
         "core": "*",
